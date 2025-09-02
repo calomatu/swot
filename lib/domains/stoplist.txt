@@ -639,7 +639,6 @@ estudiante.usat.edu.pe
 mc-class.gr
 mtmcollege.in
 rsat.org.uk
-altinbas.edu.tr
 stumail.zcs.k12.in.us
 dusit.ac.th
 nyfbox.hu
@@ -810,3 +809,16 @@ ti.ues.edu.sv
 bible.ac.kr
 o365.fayoum.edu.eg
 uni-vt.bg
+pdit.it
+studenti.it
+qdul.ch
+ovan.in
+uoen.in
+dakahliya3.moe.edu.eg
+mku.ac.ke
+stringtheoryschools.org
+oum.edu.my
+vfk.fr
+kut.edu.pl
+psis.edu.my
+snc.edu.pl
